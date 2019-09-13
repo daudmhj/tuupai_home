@@ -4,6 +4,10 @@ Tuupai Test for Mobile Developer
 
 Remake Tuupai HomePage using Flutter
 
+![GitHub Logo](/image/ss1.jpg)
+![GitHub Logo](/image/ss2.jpg)
+![GitHub Logo](/image/ss3.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
