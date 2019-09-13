@@ -2,6 +2,8 @@
 
 Tuupai Test for Mobile Developer
 
+Remake Tuupai HomePage using Flutter
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
