@@ -4,9 +4,9 @@ Tuupai Test for Mobile Developer
 
 Remake Tuupai HomePage using Flutter
 
-![GitHub Logo](/image/ss1.jpg)
-![GitHub Logo](/image/ss2.jpg)
-![GitHub Logo](/image/ss3.jpg)
+![GitHub Logo](/image/ss1.jpg | width=100)
+![GitHub Logo](/image/ss2.jpg | width=100)
+![GitHub Logo](/image/ss3.jpg | width=100)
 
 ## Getting Started
 
