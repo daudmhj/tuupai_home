@@ -4,7 +4,7 @@ Tuupai Test for Mobile Developer
 
 Remake Tuupai HomePage using Flutter
 
-![](https://https://github.com/daudmhj/tuupai_home/blob/master/image/ss1.jpg | width=100)
+![](https://github.com/daudmhj/tuupai_home/blob/master/image/ss1.jpg | width=100)
 ![](/image/ss2.jpg | width=100)
 ![](/image/ss3.jpg | width=100)
 
